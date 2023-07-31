@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (QtWidgetsApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Reading Qt configuration (C:/dev/Qt/6.5.2/msvc2019_64/bin/qmake)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (QtWidgetsApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  uic QtWidgetsApp.ui
+  rcc QtWidgetsApp.qrc
+  moc loginSystem.h
+   RCC: Warning: No resources in 'C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemGUI\QtWidgetsApp.qrc'.
+  admin.cpp
+  table.cpp
+  hash.cpp
+  login.cpp
+  main.cpp
+  qrc_QtWidgetsApp.cpp
+  moc_loginSystem.cpp
+  QtWidgetsApp.vcxproj -> C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemGUI\x64\Debug\loginSystemGUI.exe
+  windeployqt: "C:/dev/Qt/6.5.2/msvc2019_64/bin\windeployqt.exe" --list target --dir C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemGUI\x64\Debug\ C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemGUI\x64\Debug\loginSystemGUI.exe
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.

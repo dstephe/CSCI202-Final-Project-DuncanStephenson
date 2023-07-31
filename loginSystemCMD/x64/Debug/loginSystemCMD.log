@@ -1,0 +1,7 @@
+﻿  functions.cpp
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemCMD\functions.cpp(60,125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemCMD\functions.cpp(60,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemCMD\functions.cpp(342,36): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  loginSystemCMD.cpp
+  Generating Code...
+  loginSystemCMD.vcxproj -> C:\Users\dstep\Desktop\Duncan\School\2023(Summer)\CSCI202\CSCI202-Final-Project-DuncanStephenson\CSCI202-Final-Project-DuncanStephenson\loginSystemCMD\x64\Debug\loginSystemCMD.exe

@@ -2,6 +2,7 @@
  M08 - Final Project
 The program used sqlite, openssl-32, and Qt 6.5.2
 To run the program open the loginSystemGUI folder and either run the exe or build the program youself by opening the solution file in Visual Studio.
+The default Administrator login is username: 'admin' and password: 'password'.
 I have 5 cpp files and one  header file which do the following:
 
 # main.cpp
